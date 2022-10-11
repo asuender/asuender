@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on many projects to get more experience
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asuender)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asuender&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 asuender/asuender is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
