@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asuender
+- 👋 Hi, I’m a student
 - 👀 I’m interested in: Railway 
 - 🌱 I’m currently learning how to build software
 - 💞️ I’m looking to collaborate on many projects to get more experience
