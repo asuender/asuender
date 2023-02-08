@@ -3,4 +3,4 @@
 - 🏫 I’m currently learning how to build software
 - 💞️ I’m looking to collaborate on many projects to get more experience
 
-[](./profile-night-rainbow.svg)
+![Contribution chart](./profile-night-rainbow.svg)
