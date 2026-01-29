@@ -15,5 +15,6 @@ Welcome to my GitHub page! My name is Andreas. I am currently enrolled in the Ba
 - [ ] Finish the [**AOC**](https://github.com/asuender/aoc-2025) exercises in both Python and Rust
 - [ ] Build a small http server in C that is (at least somewhat) HTTP/1.1 compliant
 - [ ] Port [**dockersize**](https://github.com/asuender/dockersize) to a CLI tool
+- [ ] Build my own note-taking tool for the terminal with automatic syncing.
 
 [^2]: this was mostly vibe-coded just to examine the limits of AI-assisted coding using Claude Code.
