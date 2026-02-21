@@ -18,5 +18,6 @@ Welcome to my GitHub page! My name is Andreas. I am currently enrolled in the Ba
 - [X] Build a ZSH widget to prompt an AI for a specific command (i.e. list all files that begin with X)
 - [ ] Port [**dockersize**](https://github.com/asuender/dockersize) to the CLI
 - [ ] Build my own note-taking tool for the terminal with automatic syncing.
+- [ ] Create neovim plugin or TUI to quickly search the Rust standard library
 
 [^2]: this was mostly vibe-coded just to examine the limits of AI-assisted coding using Claude Code.
