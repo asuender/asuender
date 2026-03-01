@@ -15,7 +15,7 @@ Welcome to my GitHub page! My name is Andreas. I am currently enrolled in the Ba
 - [**next-beat**](https://github.com/asuender/next-beat) - A small web app showing the most listened tracks on Spotify.
 - [**commander**](https://github.com/asuender/commander) - A minimal ZSH widget to prompt an AI for shell commands.
 
-**Plans for 2026 (currently on hold due to exams)**:
+**Plans for 2026**:
 
 - [ ] Finish the [**AoC**](https://github.com/asuender/aoc-2025) exercises in both Python and Rust
 - [ ] Build a small http server in C that is (at least somewhat) HTTP/1.1 compliant
