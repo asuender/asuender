@@ -5,6 +5,7 @@ Welcome to my GitHub page! My name is Andreas. I am currently enrolled in the Ba
 **My most notable project:**
 
 - [**doccy**](https://github.com/asuender/doccy) - A rich TUI to browse Rust's std and core libraries.
+- [**tinyagent**](https://github.com/asuender/tinyagent) - A minimalistic coding agent, written in Go.
 
 **Other projects that I work(ed) on:**
 
@@ -18,10 +19,10 @@ Welcome to my GitHub page! My name is Andreas. I am currently enrolled in the Ba
 **Plans for 2026**:
 
 - [ ] Finish the [**AoC**](https://github.com/asuender/aoc-2025) exercises in both Python and Rust
-- [ ] Build a small http server in C that is (at least somewhat) HTTP/1.1 compliant
+- [ ] Build a [**barebone coding agent**](https://github.com/asuender/tinyagent) to explore tool calling 
 - [X] Build a ZSH widget to prompt an AI for a specific command (i.e. list all files that begin with X)
 - [ ] Port [**dockersize**](https://github.com/asuender/dockersize) to the CLI
 - [ ] Build my own note-taking tool for the terminal with automatic syncing.
-- [X] Create neovim plugin or TUI to quickly search the Rust standard library
+- [X] Create a TUI to quickly search the Rust standard library
 
 [^2]: this was mostly vibe-coded just to examine the limits of AI-assisted coding using Claude Code.
