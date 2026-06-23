@@ -5,7 +5,8 @@ Welcome to my GitHub page! My name is Andreas. I am currently enrolled in the Ba
 **My most notable projects:**
 
 - [**doccy**](https://github.com/asuender/doccy) - A rich TUI to browse Rust's std and core libraries.
-- [**tinyagent**](https://github.com/asuender/tinyagent) - A minimalistic and opinionated coding agent, written in Go (under development)
+- [**lunabot**](https://github.com/asuender/lunabot) - A personal agent inspired by OpenClaw, NanoClaw etc. Written in Go.
+- [**tinyagent**](https://github.com/asuender/tinyagent) - A minimalistic and opinionated coding agent, written in Go (currently paused)
 
 **Other projects that I work(ed) on:**
 
