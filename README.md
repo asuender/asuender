@@ -2,10 +2,9 @@ Hi! 👋
 
 Welcome to my GitHub page! My name is Andreas. I am currently enrolled in the Bachelor's program of Statistics and Data Science at the University of Munich (LMU) and I enjoy working on little side projects and AI-related stuff. Have a look around and enjoy!
 
-**My most notable projects:**
+**My most notable projects: (currently paused due to exams)**
 
 - [**doccy**](https://github.com/asuender/doccy) - A rich TUI to browse Rust's std and core libraries.
-- [**lunabot**](https://github.com/asuender/lunabot) - A personal agent inspired by OpenClaw, NanoClaw etc. Written in Go.
 - [**tinyagent**](https://github.com/asuender/tinyagent) - A minimalistic and opinionated coding agent, written in Go (currently paused)
 
 **Other projects that I work(ed) on:**
